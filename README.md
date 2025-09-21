@@ -1,6 +1,6 @@
 # Cómo Obtener el Token de Acceso de HighLevel API
 
-Este README te guiará paso a paso para obtener un token de acceso para la API de HighLevel utilizando OAuth 2.0.
+Este README te guiará paso a paso para principiantes puedan obtener un token de acceso para la API de HighLevel utilizando OAuth 2.0.
 
 ## Requisitos Previos
 
